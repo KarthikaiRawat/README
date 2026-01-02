@@ -82,14 +82,3 @@ Feb 2024 – Present
 - NATIONAL COMPETENCE AND EMPLOYABILITY TEST (N.C.E.T) Certified
 
 ---
-
-## Interests & Extras
-- Areas I enjoy: device management systems (MDM/EMM), full‑stack web development, Android apps, and building tools that improve developer productivity.
-- Hobbies: (add personal hobbies or fun facts here)
-
----
-
-> "Build things that matter, learn by doing, and make software that helps people."
-
----
-If you'd like this README tailored further (tone, additional links, or a different structure), provide links for projects, portfolio/LinkedIn, and resume and I will update the file accordingly.
