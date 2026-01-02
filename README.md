@@ -2,8 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KarthikaiRawat&color=0e75b6)](https://github.com/KarthikaiRawat)
 
-Software Engineer— Full‑stack & Android developer 
-I enjoy building robust backend systems, responsive frontends, and mobile solutions that solve real user problems.
+Software Engineer— Full‑stack & Android developer, I enjoy building robust backend systems, responsive frontends, and mobile solutions that solve real user problems.
 
 ---
 
